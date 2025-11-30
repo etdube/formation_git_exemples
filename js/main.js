@@ -35,6 +35,12 @@ const produits = [
         nom: 'Webcam HD',
         prix: 89.99,
         description: 'Caméra web 1080p'
+    },
+    {
+        id: 7,
+        nom: 'Disque Dur Externe',
+        prix: 129.99,
+        description: 'Disque dur portable 2TB'
     }
 ];
 
