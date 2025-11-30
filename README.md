@@ -8,15 +8,16 @@ Bienvenue! Cette application est conçue comme base d'exercices pour un cours de
 d:\formations\git_repo\
 ├── index.html                 # Page d'accueil
 ├── css/
-│   └── style.css             # Feuilles de style
+│   └── style.css              # Feuilles de style
 ├── js/
-│   ├── main.js               # Script principal
-│   ├── produits.js           # Script pour la page produits
-│   └── contact.js            # Script pour la page contact
+│   ├── main.js                # Script principal
+│   ├── produits.js            # Script pour la page produits
+│   └── contact.js             # Script pour la page contact
 ├── pages/
-│   ├── produits.html         # Page de liste des produits
-│   └── contact.html          # Page de formulaire de contact
-└── README.md                 # Ce fichier
+│   ├── produits.html          # Page de liste des produits
+│   ├── contact.html           # Page de formulaire de contact
+|   └── soutien_technique.html # Page de soutien technique
+└── README.md                  # Ce fichier
 
 ```
 
